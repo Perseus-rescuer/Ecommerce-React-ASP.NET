@@ -4,8 +4,6 @@ Hi there,
 
 I spent some time writing one full stack project using ASP.NET Core and React with other best practices as explained below. This app was made for the sole purpose of study and fun. I hope you like it.
 
-This project was inspired by Rahul Sahay's excellent eCommerce project. Here's the [link](https://github.com/rahulsahay19/eCommerce-App) to his project.
-
 ## Project structure
 
 The project was structured in two main folders: backend and frontend:
